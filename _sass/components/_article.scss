@@ -42,4 +42,7 @@
   margin-right: auto;
   margin-left: auto;
   max-width: 76rem; // 760px;
+  :first-child {
+    margin-top: 0;
+  }
 }
