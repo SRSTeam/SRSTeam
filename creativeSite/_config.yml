@@ -1,0 +1,28 @@
+# Site settings
+title: SRS Design Team
+email: mecolmg@vt.edu
+description: >
+  The SRS Design Team is a team of students at Virginia Tech
+  who are dedicated to solving the issue of space debris, by
+  developing a spaceplane which can fly to low earth orbit and 
+  recover decaying satellites.
+baseurl: "site.github.url"
+url: ""
+fixedNav: 'true' # true or false
+theme: blue # green, blue, orange, purple, grey
+githubUsername: SRSTeam
+
+# Build settings
+permalink: /:year/:month/:day/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+sass:
+  style: compressed
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false

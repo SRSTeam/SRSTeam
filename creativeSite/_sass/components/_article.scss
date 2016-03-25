@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Article
+   ========================================================================== */
+
+.c-article {
+
+}
+
+.c-article__main {
+  background: white;
+  margin-top: -5rem;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  max-width: 76rem; // 760px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+  padding-right: 2.5rem;
+  padding-left: 2.5rem;
+  @include fs--body;
+
+  > * {
+    margin-bottom: 1.8rem;
+    color: rgba($c__black, .7);
+  }
+
+  a:not(.c-btn) {
+    text-decoration: underline;
+  }
+
+  blockquote {
+    margin-left: -2.5rem;
+    width: calc(100% + 5rem);
+    padding: 2.5rem;
+    background: $c__light-grey;
+  }
+}
+
+.c-article__archives {
+  @include fs--body;
+  margin-top: -5rem;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 76rem; // 760px;
+}

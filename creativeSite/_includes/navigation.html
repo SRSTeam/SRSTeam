@@ -1,0 +1,10 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Home</a>
+    {% for nav_page in site.pages %}
+    	{% if nav_page.nav %}
+    		<a class="c-navigation__item {% if page.url == nav_page.permalink %}is-active{% endif %}" href="{{ nav_page.permalink | prepend: site.baseurl }}">{{ nav_page.title }}</a>
+    	{% endif %}
+    {% endfor %}
+  </div>
+</nav>
