@@ -5,5 +5,5 @@ permalink: /contact/
 nav: true
 ---
 
-##Contact Us:
+## Contact Us:
 [Colm's email](mailto:mecolmg@vt.edu)

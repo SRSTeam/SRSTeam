@@ -22,3 +22,10 @@ include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
+github:
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ gems:
+   - jekyll-coffeescript
+   - jekyll-paginate
