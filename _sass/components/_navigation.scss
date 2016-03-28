@@ -57,3 +57,37 @@
     background: $c__white;
   }
 }
+
+#cat-btn {
+  position: absolute;
+  margin-top: -44px;
+  right: 10px;
+  // color: $c__white;
+}
+
+.is-active {
+  .mdl-navigation__link {
+    background: $c__pink !important;
+    color: $c__white !important;
+    &:hover {
+      background: $c__grey;
+    }
+  }
+  #cat-btn {
+    color: $c__white;
+  }
+
+}
+
+// .mdl-navigation__link {
+//   &.is-active {
+//     background: $c__pink !important;
+//     color: $c__white !important;
+//     #cat-btn {
+//       color: $c__white;
+//     }
+//   }
+//   &:hover {
+//     background: $c__grey;
+//   }
+// }

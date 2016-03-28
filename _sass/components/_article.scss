@@ -17,12 +17,17 @@
   padding-bottom: 3.5rem;
   padding-right: 2.5rem;
   padding-left: 2.5rem;
+  // min-height: 27em;
   @include fs--body;
 
   > * {
     margin-bottom: 1.8rem;
     color: rgba($c__black, .7);
   }
+
+  :last-child {
+      margin-bottom: 0;
+    }
 
   a:not(.c-btn) {
     text-decoration: underline;

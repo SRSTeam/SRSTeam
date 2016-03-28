@@ -1,0 +1,50 @@
+<style>
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  color: white;
+}
+</style>
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout-icon"></div>
+    <div class="mdl-layout__header-row">
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation -->
+      <nav class="mdl-navigation">
+      	<!-- Accent-colored raised button with ripple -->
+      	<a href="{{ '/contact/' | prepend: site.baseurl }}"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+      	  Contact Us
+      	</button></a>
+      </nav>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout__title">{{site.title}}</span>
+    <nav class="mdl-navigation">
+      <div class="{% if page.url == '/' %} is-active {%endif%}">
+        <a class="mdl-navigation__link" href="{{ '/' | prepend:site.baseurl }}">Home</a>
+      </div>
+      {% for nav_page in site.pages %}
+        {% if nav_page.nav %}
+          <div class="{% if page.url contains nav_page.permalink %}is-active{% endif %}">
+            <a class="mdl-navigation__link" href="{{ nav_page.permalink | prepend: site.baseurl }}">{{ nav_page.title }}</a>
+            {% if nav_page.permalink == '/articles/' %}
+              <button id="cat-btn" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+                <i class="material-icons" role="presentation">arrow_drop_down</i>
+                <span class="visuallyhidden">Accounts</span>
+              </button>
+              <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="cat-btn">  
+                <a class="mdl-menu__item" href="{{'/articles/category/general/' | prepend:site.baseurl}}">General</a>
+                <a class="mdl-menu__item" href="{{'/articles/category/structures/' | prepend:site.baseurl}}">Structures</a>
+                <a class="mdl-menu__item" href="{{'/articles/category/recovery/' | prepend:site.baseurl}}">Recovery</a>
+                <a class="mdl-menu__item" href="{{'/articles/category/avionics/' | prepend:site.baseurl}}">Avionics</a>
+                <a class="mdl-menu__item" href="{{'/articles/category/engines/' | prepend:site.baseurl}}">Engines</a>
+              </ul>
+            {% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+  <main class="mdl-layout__content">
