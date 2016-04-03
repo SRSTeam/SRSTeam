@@ -2,7 +2,7 @@
 layout: page_centered
 title: SRS Design Team
 ---
-<img style="display: block; margin:0 auto; height: 250px;" src="{{site.url}}/images/templogo.png"/>
+<img style="display: block; margin:0 auto; height: 250px;" src="{{site.url}}/images/TempLogo.png"/>
 
 ## Satellite Recovery Spaceplane (SRS):
 
