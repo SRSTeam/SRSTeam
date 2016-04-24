@@ -2,7 +2,7 @@
 layout: page_centered
 title: SRS Design Team
 ---
-<img style="display: block; margin:0 auto; height: 250px;" src="{{site.url}}/images/templogo.png"/>
+<img style="display: block; margin:0 auto; height: 250px;" src="{{site.url}}/images/TempLogo.png"/>
 
 ## Satellite Recovery Spaceplane (SRS):
 
@@ -22,8 +22,11 @@ into the possibilities of developing a spaceplane that is reusable, and can fly 
 A spaceplane is a vehicle which can fly in Earth's atmosphere, as well as in space. We believe that this is the future
 for low earth orbital travel, and with advances in technologies like **Scramjet** and **Ramjet** technologies, we believe that
 our mission is feasible.
+<<<<<<< HEAD
 
 {% highlight python %}
 for i in range(10):
 	print("Hi Rudy")
 {% endhighlight %}
+=======
+>>>>>>> origin/master
