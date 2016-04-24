@@ -9,68 +9,95 @@ category: Avionics
 ![Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/64/Molniya-1_satellite.jpg)
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1979-070A):
+
 * Mass: 1970.0 kg
+
 * COMSAT
+
 * See page for detailed info on history
 
 Source [Space-Track](http://space-track.org/):
+
 * Perigee: 197.296 km
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=11474):
+
 * Launched in 1979 from the Pelesetsk Missile and Space Complex in USSR
+
 * Radius of 7.7273 m^2
 
 Source [Wikipedia](https://en.wikipedia.org/wiki/Molniya_(satellite)):
+
 * Used highly eccentric elliptical orbits known as Molniya Orbits in order to remain visible in polar regions for longer periods
+
 * After 1967, were used as broadcast TV
 
 Other Resources:
+
 * [Satellite-Calculations.com](http://www.satellite-calculations.com/Satellite/Catalog/catalogID.php?11474)
 
 
 ## COSMOS 482 Decent Craft (6073):
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1972-023A):
+
 * Mass: 1180.0 kg
+
 * Launch Vehicle: Soyuz
+
 * Mission was an attempted Venus probe which failed to escape low Earth orbit. 
+
 * The planned mission was to put the satellite into an Earth parking orbit, and then split into 4 pieces, 2 of which would go in a Venus trajectory, the other 2 burned up in the atmosphere. The 2 that didn't burn were not able to escape Earth's gravitational pull, and maintain a 280x9800 km orbit.
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=6073):
+
 * Launched in 1972 from the Tyuratam Missile and Space Complex
+
 * Radius of 0.7153 m^2
 
 Other Resources:
+
 * [Russian Space Web](http://www.russianspaceweb.com/venera72_kosmos482.html)
+
 * [Satview.org](http://www.satview.org/?sat_id=06073U)
 
 
 ## TELKOM 3 (38744):
 
-:![Source: Detik](http://us.images.detik.com/content/2012/02/25/328/esa_satellite-285.jpg)
+![Source: Detik](http://us.images.detik.com/content/2012/02/25/328/esa_satellite-285.jpg)
 
 Source [Wikipedia](https://en.wikipedia.org/wiki/Telkom-3):
+
 * An Indonesian communications satellite which failed to reach its intended orbit. Payed for by PT Telekomunikasi.
+
 * Satellite is in working, perfect condition. It is just in the wrong orbit.
 
 Source [Gunter's Space Page](http://space.skyrocket.de/doc_sdat/telkom-3.htm):
+
 * Mass: 1600-1903 kg
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=38744):
+
 * Radius: 12.425 m^2
+
 * Perigee: ~240 km
 
 ## EXPLORER 26 "EPE-D" (00963):
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1964-086A):
+
 * Mass: 45.8 kg
+
 * Explorer 26 was a spin-stabilized, solar-cell-powered spacecraft instrumented to measure trapped particles and the geomagnetic field. A 16-channel PFM/PM time-division multiplexed telemeter was used. The time required to sample the 16 channels (one frame period) was 0.29 s. Half of the channels were used to convey eight-level digital information. The other channels were used for analog information. During ground processing, the analog information was digitized with an accuracy of 1/800th of full scale. One analog channel was subcommutated in a 16-frame-long pattern and used to telemeter spacecraft temperatures, power system voltages, currents, etc. A digital solar aspect sensor measured the spin period and phase, digitized to 0.036 s, and the angle between the spin axis and sun direction to about 3-deg intervals. The spacecraft systems functioned well, except for some undervoltage turnoffs, until May 26, 1967, when the telemeter failed. The initial spin rate was 33 rpm, and the spin axis direction was right ascension 272.8 deg and declination 21.5 deg. The spin rate decreased with time to 2 rpm on September 9, 1965. For the balance of its life, the spacecraft was coning or tumbling at a rate of about 1 rpm.
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=963):
+
 * Radius: 0.6916 m^2
+
 * Perigee: ~ 264.4km 
 
 Other Resources:
+
 * [SatelliteCoverage.net](https://satellitecoverage.net/satellite-tracking/?satellite=963)
 
 ## DART (28642):
@@ -78,12 +105,17 @@ Other Resources:
 ![Source: Shared Earth Observation Resources](https://directory.eoportal.org/image/image_gallery?img_id=168595&t=1338044414980)
 
 Source [Shared Earth Observation Resources](https://directory.eoportal.org/web/eoportal/satellite-missions/d/dart):
+
 * Mass: 365 kg
+
 * DART is a NASA flight vehicle demonstrator mission of with the objective to test enabling technologies required to locate and rendezvous with other target spacecraft (client) - in particular, to perform and validate close proximity operations and its control between the DART vehicle and a passive target satellite in orbit. The DART mission is unique in that all of the operations will be autonomous - there will be no astronaut on board at the controls, only computers programmed to perform functions. NASA considers this mission as a key step in establishing autonomous rendezvous capabilities for the US space program (groundwork for future reusable manned and unmanned launch vehicle missions).
+
 * The ability to autonomously dock and deliver a payload to the ISS is a critical requirement for the 2nd generation RLV (Reusable Launch Vehicle) program and key to the SLI (Space Launch Initiative) program. RLV and SLI are part of NASA's Alternate Access to Station (AAS) concept, originally initiated in the fall of 2000. The DART mission is funded by the RLV and SLI projects of NASA. Note: NASA canceled the AAS program in 2003 due to budgetary problems.
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=28642):
+
 * Radius: 1.1744 m^2 
+
 * Perigee: ~250 km
 
 ## EXOS D "Akenbono" (19822):
@@ -91,16 +123,26 @@ Source [N2YO.com](http://www.n2yo.com/satellite/?s=28642):
 ![Source: Gunter's Space Page](http://space.skyrocket.de/img_sat/exos-d__1.jpg)
 
 Source [Gunter's Space Page]():
-* S-D on April 23, 2015 to terminate its operation after more than 26 years in orbit.The purpose of the Exos D orAkebono mission was to investigate the particle acceleration regions above the auroral region in order to develop a better understanding of the acceleration mechanism and of its relation to substorm phenomena.
-The spacecraft was spin-stabilized with a rotation rate of 7.5 rpm. The attitude was magnetically controlled with spacecraft axis pointing to the sun. All onboard operations such as command and data acquisition were controlled by an onboard computer permitting automatic operations for a full week. The scientific instrumentation was:
+
+* S-D on April 23, 2015 to terminate its operation after more than 26 years in orbit.The purpose of the Exos D orAkebono mission was to investigate the particle acceleration regions above the auroral region in order to develop a better understanding of the acceleration mechanism and of its relation to substorm phenomena.The spacecraft was spin-stabilized with a rotation rate of 7.5 rpm. The attitude was magnetically controlled with spacecraft axis pointing to the sun. All onboard operations such as command and data acquisition were controlled by an onboard computer permitting automatic operations for a full week. The scientific instrumentation was:
+>
+
 * Electric Field Detectors (EFD)
+
 * Magnetic Field Detector (MGF)
+
 * Very Low Frequency Wave Detectors (VLF)
+
 * Stimulated Plasma Wave and High Frequency Plasma Wave Detectors (PWS)
+
 * Low Energy Particle Detectors (LEP)
+
 * Suprathermal Ion Mass Spectrometer (SMS)
+
 * Velocity Distribution of Thermal Electrons (TED)
+
 * Visible and UV Auroral Television (ATV)
+
 JAXA stopped sending and receiving signals to and from EXO
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=19822):
