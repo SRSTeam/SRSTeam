@@ -125,28 +125,29 @@ Source [N2YO.com](http://www.n2yo.com/satellite/?s=28642):
 Source [Gunter's Space Page]():
 
 * S-D on April 23, 2015 to terminate its operation after more than 26 years in orbit.The purpose of the Exos D orAkebono mission was to investigate the particle acceleration regions above the auroral region in order to develop a better understanding of the acceleration mechanism and of its relation to substorm phenomena.The spacecraft was spin-stabilized with a rotation rate of 7.5 rpm. The attitude was magnetically controlled with spacecraft axis pointing to the sun. All onboard operations such as command and data acquisition were controlled by an onboard computer permitting automatic operations for a full week. The scientific instrumentation was:
->
 
-* Electric Field Detectors (EFD)
+	* Electric Field Detectors (EFD)
 
-* Magnetic Field Detector (MGF)
+	* Magnetic Field Detector (MGF)
 
-* Very Low Frequency Wave Detectors (VLF)
+	* Very Low Frequency Wave Detectors (VLF)
 
-* Stimulated Plasma Wave and High Frequency Plasma Wave Detectors (PWS)
+	* Stimulated Plasma Wave and High Frequency Plasma Wave Detectors (PWS)
 
-* Low Energy Particle Detectors (LEP)
+	* Low Energy Particle Detectors (LEP)
 
-* Suprathermal Ion Mass Spectrometer (SMS)
+	* Suprathermal Ion Mass Spectrometer (SMS)
 
-* Velocity Distribution of Thermal Electrons (TED)
+	* Velocity Distribution of Thermal Electrons (TED)
 
-* Visible and UV Auroral Television (ATV)
+	* Visible and UV Auroral Television (ATV)
 
-JAXA stopped sending and receiving signals to and from EXO
+* JAXA stopped sending and receiving signals to and from EXO
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=19822):
+
 * Radius: 3.12 m^2 
+
 * Perigee: ~268 km
 
 ## ST5-B (28981):
@@ -154,30 +155,42 @@ Source [N2YO.com](http://www.n2yo.com/satellite/?s=19822):
 ![Source: Shared Earth Observation Resources](https://directory.eoportal.org/image/image_gallery?img_id=203716&t=13396623768220)
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=2006-008B):
+
 * Mass: 25.0 kg 
+
 * Nominal Power: 20.0 W
+
 * ST5-B is one of the first three microsatellites in the Space Technology 5 mission of the American (NASA) New Millennium Program. They were launched at 14:04 UT on 22 March 2006 by a Pegasus XL rocket that was released from the belly of a Lockheed L-1011 plane flying out of Vandenberg AFB. Each, with a mass of 25 kg and power 20 W, is octagon-shaped (53 cm x 48 cm). Each is called a "full service" satellite, capable of orbit/attitude maneuver and radio links. In all, about 10 innovative, miniaturized technology advances will be tested during the 90-day operational span. Among them are variable emittance coatings (to heat when cold and cool when hot), metal oxide logic circuits that can operate at 0.5 volts, miniature magnetometers, and miniature, spinning Sun-sensors. They will orbit in a "string of pearls" formation. After success with this mission, the hope is to launch many such microsatellites to better understand the space weather impacts.
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=28981):
+
 * Radius: 0.30 m^2 
+
 * Perigee: ~275 km
 
 Other Resources:
+
 * [Shared Earth Observation Resources](https://directory.eoportal.org/web/eoportal/satellite-missions/s/st5)
 
 ## ST5-C (28982):
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=2006-008C):
+
 * Mass: 25.0 kg 
+
 * Nominal Power: 20.0 W
+
 * ST5-C is one of the first three microsatellites in the Space Technology 5 mission of the American (NASA) New Millennium Program. They were launched at 14:04 UT on 22 March 2006 by a Pegasus XL rocket that was released from the belly of a Lockheed L-1011 plane flying out of Vandenberg AFB. Each, with a mass of 25 kg and power 20 W, is octagon-shaped (53 cm x 48 cm). Each is called a "full service" satellite, capable of orbit/attitude maneuver and radio links. In all, about 10 innovative, miniaturized technology advances will be tested during the 90-day operational span. Among them are variable emittance coatings (to heat when cold and cool when hot), metal oxide logic circuits that can operate at 0.5 volts, miniature magnetometers, and miniature, spinning Sun-sensors. They will orbit in a "string of pearls" formation. After success with this mission, the hope is to launch many such microsatellites to better understand the space weather impacts.
 
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=28982):
+
 * Radius: 0.30 m^2 
+
 * Perigee: ~283 km
 
 Other Resources:
+
 * [Shared Earth Observation Resources](https://directory.eoportal.org/web/eoportal/satellite-missions/s/st5)
 
 ## STSAT 2C (39068):
@@ -185,33 +198,49 @@ Other Resources:
 ![Source: Gunter's Space Page](http://space.skyrocket.de/img_sat/stsat-2c__1.jpg)
 
 Source [Gunter's Space Page](http://space.skyrocket.de/doc_sdat/stsat-2c.htm):
+
 * Mass: < 100 kg
+
 * Lifetime: < 1 year
+
 * Year Launched: 2013
+
 * STSAT 2C is a South Korean satellite placed in a 186-mile by 932-mile orbit, where the craft would test new space technologies and monitor plasma and radiation levels in low Earth orbit. With STSAT 2C, South Korea becomes the 11th country to launch its own satellite into orbit from its own soil.
 
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=39068):
+
 * Radius: 0.744 m^2
+
 * Perigee: ~287 km
 
 ## KUAIZHOU 2 "KZ-2" (40311):
 
-Source [N2YO.com](http://www.n2yo.com/satellite/?s=40311)
+Source [N2YO.com](http://www.n2yo.com/satellite/?s=40311):
+
 * KUAIZHOU 2 (KZ-2) will be used to monitor natural disasters and provide disaster-relief information. Kuaizhou means "speedy vessel" in Chinese.
+
 * Perigee: ~277 km 
+
 * Height 20 meters with launch vehicle
+
 * Mass of launch vehicle 30 metric tons with 430 kilogram payloads
+
 * Expected Decay: May 21st, 2016
 
 Source [NASA Space Science Data Coordinated Archive](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=2014-073A):
+
 * Small remote sensing satellite intended to assist in disaster monitoring. There is no separately-catalogued upper stage because it is integrated with the satellite.
 
 ## ALMASAT-1 (38078):
 
-
 Source [N2YO.com](http://www.n2yo.com/satellite/?s=38078):
+
 * Radius: 0.27 m^2 
+
 * Perigee: ~299 km 
+
 * Mass: 12.5 kg
+
 * Status: Inactive
+
 * ALMASat-1 is a 12.5 kg technology demonstration microsatellite developed and built by the University of Bologne. The 30 cm cube is a modular structure that can be used for various technology demonstration or Earth observation missions. The main objective of this first mission is to test the key performance of this low-cost multipurpose bus to prepare for future missions, such as 3-axis pointing accuracy.
